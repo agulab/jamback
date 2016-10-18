@@ -1,2 +1,0 @@
-# jamback
-JAM backend
