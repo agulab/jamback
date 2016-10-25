@@ -55,8 +55,4 @@ public class HomeController {
         return home(model);
     }
     
-    @RequestMapping(path = "pepe", method = RequestMethod.GET)
-    public String pepe(ModelMap model) {
-        return "pepe";
-    }
 }
