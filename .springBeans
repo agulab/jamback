@@ -7,7 +7,7 @@
 	</configSuffixes>
 	<enableImports><![CDATA[false]]></enableImports>
 	<configs>
-		<config>java:com.jamback.config.Launcher</config>
+		<config>java:com.jam.jamback.config.Launcher</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
