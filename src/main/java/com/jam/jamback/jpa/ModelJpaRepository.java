@@ -1,4 +1,4 @@
-package com.jamback.jpa;
+package com.jam.jamback.jpa;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

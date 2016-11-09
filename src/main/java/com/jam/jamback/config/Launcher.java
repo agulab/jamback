@@ -1,4 +1,4 @@
-package com.jamback.config;
+package com.jam.jamback.config;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
